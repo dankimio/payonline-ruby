@@ -1,7 +1,5 @@
 ## Payonline
 
-[![Gem Version](https://badge.fury.io/rb/payonline.svg)](http://badge.fury.io/rb/payonline) [![Code Climate](https://codeclimate.com/github/yuri-zubov/payonline/badges/gpa.svg)](https://codeclimate.com/github/yuri-zubov/payonline)
-
 This is a thin wrapper library that makes using PayOnline API a bit easier.
 
 ## Installation
@@ -9,7 +7,7 @@ This is a thin wrapper library that makes using PayOnline API a bit easier.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'payonline'
+gem 'payonline-ruby'
 ```
 
 And then execute:
@@ -52,7 +50,7 @@ end
 ## Contributing
 
 1. Fork it
-2. Clone it `git clone https://github.com/yuri-zubov/payonline`
+2. Clone it `git clone git@github.com:itsdn/payonline-ruby.git`
 3. Create your feature branch `git checkout -b my-new-feature`
 4. Commit your changes `git commit -am 'Add some feature'`
 5. Push to the branch `git push origin my-new-feature`
